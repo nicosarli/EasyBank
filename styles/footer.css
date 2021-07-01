@@ -48,23 +48,23 @@
 }
 
 .icono-facebook {
-    background: url('/images/icon-facebook.svg') center no-repeat;
+    background: url('../images/icon-facebook.svg') center no-repeat;
 }
 
 .icono-youtube {
-    background: url('/images/icon-youtube.svg') center no-repeat;
+    background: url('../images/icon-youtube.svg') center no-repeat;
 }
 
 .icono-twitter {
-    background: url('/images/icon-twitter.svg') center no-repeat;
+    background: url('../images/icon-twitter.svg') center no-repeat;
 }
 
 .icono-pinterest {
-    background: url('/images/icon-pinterest.svg') center no-repeat;
+    background: url('../images/icon-pinterest.svg') center no-repeat;
 }
 
 .icono-instagram {
-    background: url('/images/icon-instagram.svg') center no-repeat;
+    background: url('../images/icon-instagram.svg') center no-repeat;
 }
 
 @media screen and (min-width: 820px) {
